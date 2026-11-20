@@ -4,9 +4,9 @@ This is my first GitHub repository for the lab # My First GitHub Project
 This project was created as part of the Git & GitHub Lab.
 
 ## About
-- Created by: altaf
+- Created by: altaf alsalmi 
 - Course: Programming and Applications
-- Date: 2026-11-11
+- Date: 2026-11-20
 
 ## Purpose
 To learn how to:
